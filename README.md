@@ -6,3 +6,6 @@ For example, tenure describes the duration over which a client has stayed connec
 OnlineSecurity simulates signing up for identity theft services, and customers strengthened by online security may be less likely to leave. 
 The program uses machine learning algorithms to create a churn model, and the dataset should include every available explanatory variable and a target(Churn). 
 By predicting churn, businesses can identify at-risk customers, pain points leading up to churn, and take proactive actions to prevent churn and sustain growth efforts.
+
+## Video link
+-https://drive.google.com/drive/folders/1zLi8hml4uMCyAb4_vyo-48xXMSf2WcZm?usp=drive_link
